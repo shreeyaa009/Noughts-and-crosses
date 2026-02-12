@@ -1,1 +1,1 @@
-# Noughts-and-crosses
+Simple Noughts and Crosses Game in Python
